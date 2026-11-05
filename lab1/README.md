@@ -3,7 +3,6 @@
 **Student name:** THOUNG SOKET  
 **Student ID:** e20220586  
 **Learner Lab user name:** voclabs/user5623376=THOUNG_SOKET  
-**Region:** US East (N. Virginia) — us-east-1  
 **Date completed:** 06/11/2026
 
 ---
